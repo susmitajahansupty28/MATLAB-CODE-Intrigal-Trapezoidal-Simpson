@@ -1,0 +1,1 @@
+# MATLAB-CODE-Intrigal-Trapezoidal-Simpson
